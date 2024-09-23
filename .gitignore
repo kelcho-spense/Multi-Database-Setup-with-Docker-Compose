@@ -39,9 +39,10 @@ ehthumbs.db
 # ============================
 
 redis
-posgres
+postgres
 mysql
 mongodb
+mssql
 
 # ============================
 # Logs and Temporary Files
