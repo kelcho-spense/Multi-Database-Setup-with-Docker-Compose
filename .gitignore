@@ -1,0 +1,96 @@
+# ============================
+# Environment Variables
+# ============================
+
+# Ignore environment variables file containing sensitive information
+.env
+
+# ============================
+# Operating System Files
+# ============================
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# ============================
+# IDE and Editor Directories
+# ============================
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse
+.settings/
+*.launch
+
+# ============================
+# DIRs
+# ============================
+
+redis
+posgres
+mysql
+mongodb
+
+# ============================
+# Logs and Temporary Files
+# ============================
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.swn
+
+# ============================
+# Dependency Directories
+# ============================
+
+# If you add any dependencies in the future (e.g., node_modules for Node.js projects)
+# Uncomment the following line if applicable
+# node_modules/
+
+# ============================
+# Docker Related Files
+# ============================
+
+# Docker Compose override files
+# Uncomment if you use docker-compose.override.yml for local overrides
+# docker-compose.override.yml
+
+# Docker-specific temporary files
+docker-compose*.yml.lock
+
+# ============================
+# Build and Distribution Files
+# ============================
+
+# If you have build artifacts or distribution folders
+# Uncomment and modify the following lines as needed
+# /build/
+# /dist/
+
+# ============================
+# Miscellaneous
+# ============================
+
+# Ignore any other files or directories you don't want to track
+# Add custom patterns below as needed
+
+# Example: Ignore all .bak files
+# *.bak
