@@ -789,6 +789,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 # Contact
 
-For questions, issues, or contributions, please open an issue on the [GitHub repository](https://github.com/your-username/your-project/issues) or contact [your-email@example.com](mailto:your-email@example.com).
+For questions, issues, or contributions, please open an issue on the [GitHub repository](https://github.com/kelcho-spense/Multi-Database-Setup-with-Docker-Compose/issues) or contact [linkedin](https://www.linkedin.com/in/kevin-comba-gatimu/)).
 
 ---
