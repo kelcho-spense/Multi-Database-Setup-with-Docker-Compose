@@ -8,7 +8,7 @@ Certainly! Below are the updated `setup_databases.sh` script **without health ch
 
 ---
 
-## 1. Updated `setup_databases.sh` Script (Without Health Checks)
+## 1. `setup_databases.sh` Script (Without Health Checks)
 
 This Bash script automates the setup of five databases using Docker Compose. It creates the necessary directory structure, sets fixed passwords, generates initialization scripts, and deploys the containers.
 
