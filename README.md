@@ -403,6 +403,7 @@ Before getting started, ensure that your system meets the following requirements
 - **Docker:** [Install Docker](https://docs.docker.com/get-docker/)
 - **Docker Compose:** [Install Docker Compose](https://docs.docker.com/compose/install/)
 - **Bash Shell:** Typically available by default on Unix-like systems.
+- **Note** if you opt to install docker desktop it comes with docker compose
 
 ### Verify Installations
 
@@ -462,11 +463,10 @@ Follow these steps to set up your multi-database environment.
 If you haven't already, clone your project repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/kelcho-spense/Multi-Database-Setup-with-Docker-Compose.git
+cd Multi-Database-Setup-with-Docker-Compose
 ```
 
-*Replace `your-username` and `your-project` with your actual GitHub username and repository name.*
 
 ### 2. Make the Script Executable
 
